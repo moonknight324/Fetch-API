@@ -1,0 +1,46 @@
+body {
+  background-color: rgb(107, 0, 207);
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-repeat: no-repeat;
+}
+
+#input-box {
+  text-align: center;
+  opacity: 0.3;
+  border: none;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  height: 1.7rem;
+  box-shadow: 2px 2px orange;
+  outline: none;
+}
+
+#location {
+  font-size: 30px;
+  margin-top: 35px;
+}
+#date {
+  font-size: 14px;
+  margin-top: px;
+}
+
+#temp-info {
+  font-weight: bolder;
+  font-size: 70px;
+  text-shadow: 1px 4px black;
+  margin-top: 10%;
+}
+
+#weather {
+  font-size: 20px;
+  margin-top: 25px;
+  font-weight: bold;
+}
+
+#temp-range {
+  margin-top: 10px;
+  font-size: 20px;
+}
